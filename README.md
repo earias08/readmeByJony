@@ -12,6 +12,17 @@ Principal referente en Argentina en el ámbito de los videojuegos, Nexis se dest
 <a href="https://nexus-89i.netlify.app/">Soporte </a></p>
 </div>
 
+## 📋 Tabla de contenidos
+
+- [💻 Sobre NEXUS](#💻-sobre-nexus)
+- [⚒️ Tecnologías implementadas]( #⚒️-tecnologías-implementadas)
+- [✅ Requisitos](#✅-requisitos)
+- [💿 Instalación y uso]( #💿-instalación-y-uso)
+- [🤝 Como contribuir]( #🤝-como-contribuir)
+- [👨‍💻👩‍💻 Autores]( #👨‍💻👩‍💻-autores)
+- [📞 Contactanos]( #📞-contactanos)
+- [📄 Licencias]( #📄-licencia)
+
 ## 💻 Sobre NEXUS
 
 ![Nexus](img/nexus-page.png)
@@ -45,7 +56,6 @@ Sumérgete en el universo de NEXUS, donde la pasión por los videojuegos se encu
 <!-- como se arma el badge -->
 <!-- https://shields.io/badges -->
 
-
 [HTML5-badge]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 [HTML-url]: https://html.com/tags/
 [CSS3-badge]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
@@ -56,3 +66,60 @@ Sumérgete en el universo de NEXUS, donde la pasión por los videojuegos se encu
 [Github-url]: https://github.com/
 [Trello-badge]: https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white
 [Trello-url]: https://trello.com/
+
+## ✅ Requisitos
+
+- Windows 10 o superior
+- Git
+
+> [!IMPORTANT]
+> Para que funcione el proyecto enSU pc debe cumplir con **todos** los requisitos
+
+<!--
+> [!NOTE]
+> [!WARNING]  -->
+
+## 💿 Instalación y uso
+
+- clonar repositorio:
+
+```bash
+git clone https://github.com/nexus/nexus-shop.git
+```
+
+- Asegurarse que se encuentra en la rama `main`
+- Ejecutar el archivo `index.html` con la extension live server
+- Una vez iniciada la aplicación, la misma se podra previsualizar en el siguiente link `http://127.0.0.1:5500/index.html`
+
+## 🤝 Como contribuir
+
+Para contribuir, por favor seguir los siguientes pasos:
+
+1. Hacer un Fork del repositorio y clonarlo
+1. Crear desde la rama `dev` una nueva rama para comenzar `git checkout -b nueva-rama`
+1. Realizar los cambios y subirlos a su fork `git push origin nueva-rama`
+1. Solicitar un Pull Request a la rama `dev` del repositorio original
+
+## 👨‍💻👩‍💻 Autores
+
+_Jonathan Plodzien_
+
+- Github: https://github.com/JonyPlo
+- Twitter: https://github.com/JonyPlo
+
+_Emilse Arias_
+
+- Github: https://github.com/earias08
+- Twitter: https://github.com/JonyPlo
+
+## 📞 Contactanos
+
+|Medio |Link |
+|----|----|
+|Email | nexu@gmail.com |
+|Twitter | https://twitter.com/nexus |
+|Linkedin | https://www.linkedin.com/in/nexus |
+
+## 📄 Licencia
+
+Codigo y documentación copyright 2023-2024 de los autores de NEXUS. Distribuido bajo la licencia MIT. Consulte el archivo LICENSE.md para obtener mas informacion.
